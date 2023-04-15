@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 const types = {
   email: {
@@ -7,12 +7,12 @@ const types = {
   }
 }
 
-const UseForm = (type) => {
+const useForm = (type) => {
   const [value, setValue] = useState('')
   const [error, setError] = useState(null)
 
   const validate = () => {
-    if (!type) return true
+    if (type === false) return true
     if (value.length === 0) {
       setError('Preencha um valor')
       return false
@@ -41,4 +41,4 @@ const UseForm = (type) => {
 
 }
 
-export default UseForm
+export default useForm
