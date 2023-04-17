@@ -9,7 +9,8 @@ const Input = ({ label, type, name, value, onChange, error, onBlur }) => {
         id={name}
         name={name}
         className={styles.input}
-        type={type} value={value}
+        type={type}
+        value={value}
         onChange={onChange}
         onBlur={onBlur} />
 

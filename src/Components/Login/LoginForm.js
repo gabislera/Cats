@@ -16,7 +16,6 @@ const LoginForm = () => {
 
   const handleSubmit = async (event) => {
     event.preventDefault()
-
     if (username.validate() && password.validate()) {
       userLogin(username.value, password.value)
     }

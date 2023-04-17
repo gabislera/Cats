@@ -20,15 +20,6 @@ export const UserStorage = ({ children }) => {
     navigate('/login')
   }, [navigate])
 
-  const getUser = async (token) => {
-    const { url, options } = USER_GET(token)
-    const response = await fetch(url, options)
-    const json = await response.json()
-    setData(json)
-    setLogin(true)
-    console.log(json)
-  }
-
   const userLogin = async (username, password) => {
     try {
       setLoading(true)
@@ -46,6 +37,15 @@ export const UserStorage = ({ children }) => {
     } finally {
       setLoading(false)
     }
+  }
+
+  const getUser = async (token) => {
+    const { url, options } = USER_GET(token)
+    const response = await fetch(url, options)
+    const json = await response.json()
+    setData(json)
+    setLogin(true)
+    console.log(data)
   }
 
   useEffect(() => {
