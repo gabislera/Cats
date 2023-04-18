@@ -23,6 +23,7 @@ const useFetch = () => {
       return { response, json }
     }
   }, [])
+
   return {
     data,
     loading,
