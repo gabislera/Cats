@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
-  "homepage": "https://gabislera.github.io/Cats---rede-social/",
+  "homepage": "https://gabislera.github.io/Cats/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
