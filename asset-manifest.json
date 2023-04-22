@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.92b8568a.css",
-    "main.js": "/react-gh-pages/static/js/main.ad60623a.js",
-    "static/media/loginCat.jpg": "/react-gh-pages/static/media/loginCat.95c3aab766dd887cdc42.jpg",
-    "static/media/enviar.svg": "/react-gh-pages/static/media/enviar.1112bddc01e8891152fcdb0fd29cea57.svg",
-    "static/media/cat-icon.svg": "/react-gh-pages/static/media/cat-icon.a9d5b5821e895332480ed6178940189f.svg",
-    "static/media/sair.svg": "/react-gh-pages/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
-    "static/media/visualizacao-black.svg": "/react-gh-pages/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
-    "static/media/visualizacao.svg": "/react-gh-pages/static/media/visualizacao.09cd5578a66295798789.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/feed.svg": "/react-gh-pages/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
-    "static/media/usuario.svg": "/react-gh-pages/static/media/usuario.6d65a298e2fba2e83683.svg",
-    "static/media/estatisticas.svg": "/react-gh-pages/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
-    "static/media/adicionar.svg": "/react-gh-pages/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
-    "main.92b8568a.css.map": "/react-gh-pages/static/css/main.92b8568a.css.map",
-    "main.ad60623a.js.map": "/react-gh-pages/static/js/main.ad60623a.js.map"
+    "main.css": "/Cats---rede-social/static/css/main.c5063fa0.css",
+    "main.js": "/Cats---rede-social/static/js/main.208b6b08.js",
+    "static/media/loginCat.jpg": "/Cats---rede-social/static/media/loginCat.95c3aab766dd887cdc42.jpg",
+    "static/media/enviar.svg": "/Cats---rede-social/static/media/enviar.1112bddc01e8891152fcdb0fd29cea57.svg",
+    "static/media/cat-icon.svg": "/Cats---rede-social/static/media/cat-icon.a9d5b5821e895332480ed6178940189f.svg",
+    "static/media/sair.svg": "/Cats---rede-social/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
+    "static/media/visualizacao-black.svg": "/Cats---rede-social/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
+    "static/media/visualizacao.svg": "/Cats---rede-social/static/media/visualizacao.09cd5578a66295798789.svg",
+    "index.html": "/Cats---rede-social/index.html",
+    "static/media/feed.svg": "/Cats---rede-social/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
+    "static/media/usuario.svg": "/Cats---rede-social/static/media/usuario.6d65a298e2fba2e83683.svg",
+    "static/media/estatisticas.svg": "/Cats---rede-social/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
+    "static/media/adicionar.svg": "/Cats---rede-social/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
+    "main.c5063fa0.css.map": "/Cats---rede-social/static/css/main.c5063fa0.css.map",
+    "main.208b6b08.js.map": "/Cats---rede-social/static/js/main.208b6b08.js.map"
   },
   "entrypoints": [
-    "static/css/main.92b8568a.css",
-    "static/js/main.ad60623a.js"
+    "static/css/main.c5063fa0.css",
+    "static/js/main.208b6b08.js"
   ]
 }
