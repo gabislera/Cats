@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/Cats/static/css/main.cc1e496c.css",
-    "main.js": "/Cats/static/js/main.c3fd9ba9.js",
+    "main.css": "/Cats/static/css/main.d6ea8820.css",
+    "main.js": "/Cats/static/js/main.d05060c5.js",
+    "static/css/37.e502d8ac.chunk.css": "/Cats/static/css/37.e502d8ac.chunk.css",
+    "static/js/37.372744de.chunk.js": "/Cats/static/js/37.372744de.chunk.js",
+    "static/js/215.e511df67.chunk.js": "/Cats/static/js/215.e511df67.chunk.js",
     "static/media/loginCat.jpg": "/Cats/static/media/loginCat.95c3aab766dd887cdc42.jpg",
     "static/media/enviar.svg": "/Cats/static/media/enviar.1112bddc01e8891152fcdb0fd29cea57.svg",
-    "static/media/cat-icon.svg": "/Cats/static/media/cat-icon.a9d5b5821e895332480ed6178940189f.svg",
     "static/media/sair.svg": "/Cats/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
     "static/media/visualizacao-black.svg": "/Cats/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
     "static/media/visualizacao.svg": "/Cats/static/media/visualizacao.09cd5578a66295798789.svg",
     "static/media/feed.svg": "/Cats/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
     "static/media/usuario.svg": "/Cats/static/media/usuario.6d65a298e2fba2e83683.svg",
     "index.html": "/Cats/index.html",
+    "static/media/cat-curled.svg": "/Cats/static/media/cat-curled.9d7298bebd17c6e9db98912a8a116e8a.svg",
     "static/media/estatisticas.svg": "/Cats/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
     "static/media/adicionar.svg": "/Cats/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
-    "main.cc1e496c.css.map": "/Cats/static/css/main.cc1e496c.css.map",
-    "main.c3fd9ba9.js.map": "/Cats/static/js/main.c3fd9ba9.js.map"
+    "main.d6ea8820.css.map": "/Cats/static/css/main.d6ea8820.css.map",
+    "main.d05060c5.js.map": "/Cats/static/js/main.d05060c5.js.map",
+    "37.e502d8ac.chunk.css.map": "/Cats/static/css/37.e502d8ac.chunk.css.map",
+    "37.372744de.chunk.js.map": "/Cats/static/js/37.372744de.chunk.js.map",
+    "215.e511df67.chunk.js.map": "/Cats/static/js/215.e511df67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc1e496c.css",
-    "static/js/main.c3fd9ba9.js"
+    "static/css/main.d6ea8820.css",
+    "static/js/main.d05060c5.js"
   ]
 }

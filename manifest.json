@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cats",
+  "name": "Cats - Rede social para gatos",
   "icons": [
     {
       "src": "favicon.ico",
