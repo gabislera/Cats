@@ -14,8 +14,9 @@ const Feed = ({ user }) => {
       if (infinite) {
         const scroll = window.scrollY
         const height = document.body.offsetHeight - window.innerHeight
+        console.log(height)
 
-        if (scroll > height * 75 && !wait) {
+        if (scroll > height * .75 && !wait) {
           setPages((pages) => [...pages, pages.length + 1])
           wait = true
           setTimeout(() => {

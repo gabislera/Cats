@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import styles from './Header.module.css'
 import { Link } from 'react-router-dom'
-import { ReactComponent as Cats } from '../Assets/cat-icon.svg'
+import { ReactComponent as Cats } from '../Assets/cat-curled.svg'
 import { UserContext } from '../UserContext'
 
 const Header = () => {

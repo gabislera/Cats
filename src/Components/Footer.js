@@ -1,12 +1,14 @@
 import React from 'react'
 import styles from './Footer.module.css'
-// import './Footer.css' 
+import { ReactComponent as Cats } from '../Assets/cat-curled.svg'
 
 
 const Footer = () => {
   return (
-    <div className={styles.footer}>Footer</div>
-    // <div className='footer'>Footer</div>
+    <footer className={styles.footer}>
+      <Cats />
+      <p>Cats. Alguns direitos reservados.</p>
+    </footer>
   )
 }
 
